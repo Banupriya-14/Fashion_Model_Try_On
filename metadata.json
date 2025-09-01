@@ -1,0 +1,5 @@
+{
+  "name": "AI Fashion Model Try-On",
+  "description": "Upload an image of an Indian chudi set (top and pants), and our AI will generate an image of a model wearing the outfit in a professional studio setting.",
+  "requestFramePermissions": []
+}
